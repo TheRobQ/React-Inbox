@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
+import {Message} from './components/Message'
+import {ToolBar} from './ToolBar'
+
 
 class App extends Component {
   render() {
